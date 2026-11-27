@@ -8,7 +8,7 @@ berbunyi sekali — tanda target pagimu tercapai. Tekan tombol reset untuk
 menghitung ulang dari nol.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/nPT9J_pdyuM
 
 ## Bagaimana satu langkah ketahuan?
 
